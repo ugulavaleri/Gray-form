@@ -1,0 +1,18 @@
+@media (max-width: 768px) {
+    body {
+        height: 2000px;
+    }
+    nav {
+        display: none;
+    }
+    .layout-div {
+        grid-template-columns: 1fr;
+    }
+    .X-icon {
+        display: inline-block;
+        vertical-align: middle;
+    }
+    .navigation-div {
+        align-items: center;
+    }
+}
